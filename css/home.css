@@ -17,11 +17,11 @@ li {
   display: block;
   width: auto;
  
-  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
-  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
-  transition: font-size 0.3s ease, background-color 0.3s ease;
+  -webkit-transition: font-size 0.1s ease, background-color 0.3s ease;
+  -moz-transition: font-size 0.1s ease, background-color 0.3s ease;
+  -o-transition: font-size 0.1s ease, background-color 0.3s ease;
+  -ms-transition: font-size 0.1s ease, background-color 0.3s ease;
+  transition: font-size 0.1s ease, background-color 0.3s ease;
 }
  
 li:hover {
